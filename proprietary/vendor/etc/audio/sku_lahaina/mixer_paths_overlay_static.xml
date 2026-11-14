@@ -822,6 +822,11 @@
         <ctl name="RX INT0_2 MUX" value="RX2" />
     </path>
 
+    <path name="ultrasound-proximity-output ultrasund-rx">
+        <ctl name="RX_MACRO RX2 MUX" value="AIF2_PB" />
+        <ctl name="RX INT0_2 MUX" value="RX2" />
+    </path>
+
     <path name="ultrasound-cover1">
         <!--  mixer controls for RX use-case  -->
     </path>

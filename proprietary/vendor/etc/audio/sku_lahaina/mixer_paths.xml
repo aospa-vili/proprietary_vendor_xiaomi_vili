@@ -2884,6 +2884,10 @@
     <path name="ultrasound-proximity-input ultrasund-tx">
     </path>
 
+    <path name="ultrasound-proximity-output ultrasund-rx">
+        <path name="ultrasound-proximity-output" />
+    </path>
+
     <path name="ultrasound-gesture1">
         <ctl name="Ultrasound Enable" value="On"/>
         <!--  release mode  -->
